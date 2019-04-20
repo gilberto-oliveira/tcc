@@ -1,0 +1,30 @@
+%
+% CAPA
+%
+
+\makeatletter
+\begin{capa}
+	\thispagestyle{empty} % Limpa estilo da pagina
+	\setlength{\baselineskip}{1.2\baselineskip}
+	\begin{center} % Alinhamento centralizado
+		\textbf{\expandafter\uppercase\expandafter{\imprimirinstituicao}}\\
+		\textbf{\expandafter\expandafter{\imprimirdepartamento}}\\
+		\textbf{\expandafter\expandafter{\imprimirprograma}}\\
+		\vspace*{4.55cm} % Espaçamento entre linhas
+		\textbf{\expandafter\expandafter{Trabalho de Conclusão de Curso}}\\
+		\vspace*{4.1cm} % Espaçamento entre linhas
+		\textbf{\expandafter\uppercase\expandafter{\imprimirtitulotb}}\\
+		\abntex@ifnotempty{\imprimirsubtitulo} {%
+			\textbf{\expandafter\expandafter{\imprimirsubtitulo}}\\
+		}
+		\vspace*{4.7cm} % Espaçamento entre linhas	
+		\textbf{\expandafter\expandafter{\imprimirnomeautor}}\\
+		\vspace*{3.7cm} % Espaçamento entre linhas
+		\textbf{\expandafter\expandafter{\imprimirlocal}} \\
+		\textbf{\expandafter\expandafter{\imprimirdata}} \\
+	\end{center} %Alinhamento centralizado
+\end{capa}
+\makeatother
+
+
+

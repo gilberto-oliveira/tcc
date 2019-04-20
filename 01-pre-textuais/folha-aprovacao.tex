@@ -1,0 +1,66 @@
+%
+% Documento: FOLHA APROVAÇÃO
+%
+
+\makeatletter
+\begin{folhadeaprovacao}
+	\thispagestyle{empty} % Limpa estilo da pagina
+	\setlength{\baselineskip}{1.5\baselineskip}
+	\begin{center}
+		
+		\textbf{\expandafter\expandafter{\imprimirnomeautor}}\\
+		\vspace*{2.1cm} % Espaço entre linhas
+		\textbf{\expandafter\uppercase\expandafter{\imprimirtitulotb}}\\
+		\abntex@ifnotempty{\imprimirsubtitulo} {%
+			\textbf{\expandafter\expandafter{\imprimirsubtitulo}}\\
+		}
+		
+	\end{center}
+	
+	\vspace*{1.8cm}%Espaçamento entre linhas 
+	\hfill % Estica horizontamente  com espaços
+	\begin{minipage}{8cm} % Minipagina
+		\begin{normalsize} %Muda tamanho da fonte
+			\setlength{\baselineskip}{0.9\baselineskip}
+			
+			{Trabalho de Conclusão de Curso, apresentado à Universidade Federal do Sul e Sudeste do Pará, como parte dos requisitos necessários para obtenção do Título de \imprimirgrau.}\\				
+			
+		\end{normalsize} % Muda tamanho da fonte
+	\end{minipage} % Minipagina
+
+	\vspace*{0.6cm} % Espaçamento entre linhas
+	\normalsize % Muda tamanho da fonte
+	\begin{flushright}
+		Marabá: \imprimirdataapresentacao \\ % Data da aprovação
+	\end{flushright}
+	
+	\begin{flushleft}
+		BANCA QUALIFICADORA:\\
+		
+		\vspace*{1.45cm} % Espaçamento entre linhas
+		\rule{9cm}{.1 mm}\\
+		{\imprimirtitulacaoorientador}{ }{\imprimirorientador}\\
+		(Orientador - \imprimirinstOrientador)\\
+		
+		\vspace*{1.45cm} % Espaçamento entre linhas
+		\rule{9 cm}{.1 mm}\\
+		{\imprimirtitulacaoexamdois}{ }{\imprimirnomeexamdois}\\
+		(Membro da Banca - {\imprimirinstexamdois})\\
+				
+		\vspace*{1.45cm} % Espaçamento entre linhas
+		\rule{9 cm}{.1 mm}\\
+		\imprimirtitulacaoexamum{ }\imprimirnmexamum\\
+		(Membro da Banca - \imprimirinstexamum)
+				
+		\vspace*{2cm} % Espaçamento entre linhas
+	\end{flushleft}
+
+	\begin{center} % Alinhamento centralizado
+		\normalsize % Muda tamanho da fonte
+		\setlength{\baselineskip}{1.2\baselineskip}
+		\textbf{\imprimirlocal}\\
+		\textbf{\imprimirdata}
+	\end{center} % Alinhamento centralizado
+	
+\end{folhadeaprovacao}
+\makeatother

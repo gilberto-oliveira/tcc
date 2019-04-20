@@ -1,0 +1,135 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {INTRODU\IeC {\c C}\IeC {\~A}O}}{14}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{15}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivo Geral}{16}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objetivos Espec\IeC {\'\i }ficos}{16}{section.1.3}
+\contentsline {section}{\numberline {1.4}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{17}{section.1.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {REVIS\IeC {\~A}O DE LITERATURA}}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}Games e Educa\IeC {\c c}\IeC {\~a}o}{18}{section.2.1}
+\contentsline {section}{\numberline {2.2}Jogos de Plataforma \textit {2D}}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}Jogos no Ensino de Hist\IeC {\'o}ria}{20}{section.2.3}
+\contentsline {section}{\numberline {2.4}Trabalhos Correlatos}{21}{section.2.4}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {2.4.1}Game Marab\IeC {\'a} -- Uma Viagem no Tempo}{21}{subsection.2.4.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {2.4.2}Brasil Ball -- A Jornada}{22}{subsection.2.4.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {2.4.3}Sete Povos -- \textit {mobile}}{23}{subsection.2.4.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {MATERIAIS E M\IeC {\'E}TODOS}}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}\textit {Game Design Document (GDD)}}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}Ferramentas de Desenvolvimento de Jogos}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}\textit {Framework} de Desenvolvimento de Jogos Educacionais}{26}{section.3.3}
+\contentsline {section}{\numberline {3.4}Especifica\IeC {\c c}\IeC {\~o}es T\IeC {\'e}cnicas}{28}{section.3.4}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {3.4.1}Requisitos de Hardware Alvo}{29}{subsection.3.4.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {3.4.2}Ambiente de Desenvolvimento}{29}{subsection.3.4.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {O JOGO -- ARAGUAIA: A SAGA DE OSVALD\IeC {\~A}O}}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}Ambienta\IeC {\c c}\IeC {\~a}o da Equipe}{30}{section.4.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.1.1}In\IeC {\'\i }cio das Atividades}{30}{subsection.4.1.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.1.2}Hist\IeC {\'o}rico de Atividades}{31}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Projeto do Jogo}{32}{section.4.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.2.1}Conceito do Jogo}{33}{subsection.4.2.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.2.2}Enredo e Estilo do Jogo}{33}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Implementa\IeC {\c c}\IeC {\~a}o do Jogo}{37}{section.4.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.1}\textit {Cutscene} inicial \textit {3D}}{37}{subsection.4.3.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{37}{subsubsection.4.3.1.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Narrativa}{37}{subsubsection.4.3.1.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Ferramentas e T\IeC {\'e}cnicas}{38}{subsubsection.4.3.1.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.2}Miss\IeC {\~a}o -- Funda\IeC {\c c}\IeC {\~a}o do Destacamento $B$}{40}{subsection.4.3.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{40}{subsubsection.4.3.2.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Roteiro}{40}{subsubsection.4.3.2.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.2.3}Ferramentas e T\IeC {\'e}cnicas}{41}{subsubsection.4.3.2.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.3}\textit {Cutscene} -- Constru\IeC {\c c}\IeC {\~a}o do Barrac\IeC {\~a}o do Destacamento B}{42}{subsection.4.3.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{42}{subsubsection.4.3.3.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Narrativa}{42}{subsubsection.4.3.3.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.3.3}Ferramentas e T\IeC {\'e}cnicas}{43}{subsubsection.4.3.3.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.4}Miss\IeC {\~a}o -- Expuls\IeC {\~a}o do Grileiro (Pedro Mineiro)}{43}{subsection.4.3.4}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.4.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{43}{subsubsection.4.3.4.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.4.2}Roteiro}{44}{subsubsection.4.3.4.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.4.3}Ferramentas e T\IeC {\'e}cnicas}{44}{subsubsection.4.3.4.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.5}\textit {Cutscene} -- Lan\IeC {\c c}amento da praga do Capa verde}{45}{subsection.4.3.5}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.5.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{45}{subsubsection.4.3.5.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.5.2}Narrativa}{45}{subsubsection.4.3.5.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.5.3}Ferramentas e T\IeC {\'e}cnicas}{46}{subsubsection.4.3.5.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.6}Miss\IeC {\~a}o -- Constru\IeC {\c c}\IeC {\~a}o do Campo de Futebol}{47}{subsection.4.3.6}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.6.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{47}{subsubsection.4.3.6.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.6.2}Roteiro}{47}{subsubsection.4.3.6.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.6.3}Ferramentas e T\IeC {\'e}cnicas}{48}{subsubsection.4.3.6.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.7}\textit {Cutscene} -- Guerrilheiros e moradores inaugurando o campo de futebol constru\IeC {\'\i }do}{49}{subsection.4.3.7}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.7.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{49}{subsubsection.4.3.7.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.7.2}Narrativa}{49}{subsubsection.4.3.7.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.7.3}Ferramentas e T\IeC {\'e}cnicas}{49}{subsubsection.4.3.7.3}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.3.8}Miss\IeC {\~a}o -- Combate entre os Militares e Guerrilheiros}{50}{subsection.4.3.8}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.8.1}Descri\IeC {\c c}\IeC {\~a}o Geral}{50}{subsubsection.4.3.8.1}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.8.2}Roteiro}{51}{subsubsection.4.3.8.2}
+\setcounter {tocdepth}{1}
+\contentsline {subsubsection}{\numberline {4.3.8.3}Ferramentas e T\IeC {\'e}cnicas}{52}{subsubsection.4.3.8.3}
+\contentsline {section}{\numberline {4.4}Avalia\IeC {\c c}\IeC {\~a}o do Jogo}{52}{section.4.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {CONSIDERA\IeC {\c C}\IeC {\~O}ES FINAIS}}{54}{chapter.5}
+\contentsline {section}{\numberline {5.1}Trabalhos Futuros}{54}{section.5.1}
+\contentsline {section}{\numberline {5.2}Artigos Publicados}{55}{section.5.2}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {REFER\^ENCIAS}}{56}{section*.8}
+\vspace {\cftbeforechapterskip }
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
+\cftinsert {A}
+\contentsline {part}{\uppercase {Ap\^endices}}{58}{section*.9}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Guerrilha do Araguaia: A Atua\IeC {\c c}\IeC {\~a}o do Guerrilheiro Osvald\IeC {\~a}o em um Jogo de Plataforma que conta um Epis\IeC {\'o}dio Hist\IeC {\'o}rico Pouco Conhecido}}{59}{appendix.A}
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
+\cftinsert {A}
+\contentsline {part}{\uppercase {Anexos}}{64}{section*.10}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Certificado de Publica\IeC {\c c}\IeC {\~a}o no XVI Simp\IeC {\'o}sio Brasileiro de Games e Entretenimento Digital SBGames 2017}}{65}{appendix.anexochapback.1}

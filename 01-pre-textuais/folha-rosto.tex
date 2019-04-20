@@ -1,0 +1,42 @@
+%
+% Documento: FOLHA DE ROSTO
+%
+
+\makeatletter
+\begin{folhaderosto}
+	\thispagestyle{empty} % Limpa estilo da pagina
+	\setlength{\baselineskip}{1.2\baselineskip}
+	\begin{center}
+		
+		\textbf{\expandafter\expandafter{\imprimirnomeautor}}\\
+		\vspace*{5.1cm} % Espaço entre linhas
+		\textbf{\expandafter\uppercase\expandafter{\imprimirtitulotb}}\\
+		\abntex@ifnotempty{\imprimirsubtitulo} {%
+			\textbf{\expandafter\expandafter{\imprimirsubtitulo}}\\
+		}
+		
+	\end{center}
+	
+	\vspace*{4.38cm} % Espaçamento entre linhas
+	\hfill % Estica horizontamente  com espaços
+	\begin{minipage}{8cm} % Minipagina
+		\begin{normalsize} % Muda tamanho da fonte
+			\setlength{\baselineskip}{0.78\baselineskip}
+			
+			{Trabalho de Conclusão de Curso, apresentado à Universidade Federal do Sul e Sudeste do Pará, como parte dos requisitos necessários para obtenção do Título de \imprimirgrau.}\\{
+			}\\\textbf{Orientador:}\\{\imprimirtitulacaoorientador }{ }{\imprimirorientador}\\{
+			}%\textbf{Coorientador:}\\{\imprimirtitulacaocoorientador }{ }{\imprimircoorientador}
+			
+		\end{normalsize} % Muda tamanho da fonte
+	\end{minipage} % Minipagina
+	
+	\vspace*{5.9cm} % Espaçamento entre linhas
+	
+	\begin{center} % Alinhamento centralizado
+		\normalsize % Muda tamanho da fonte
+		\textbf{\imprimirlocal}\\
+		\textbf{\imprimirdata}
+	\end{center}%Alinhamento centralizado
+	
+\end{folhaderosto}
+\makeatother

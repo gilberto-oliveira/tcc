@@ -1,0 +1,196 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Blender 2018]{bib:blender2018}
+\abntrefinfo{Blender}{BLENDER}{2018}
+{BLENDER. \textbf{Site Blender}. 2018.
+Dispon{\'\i}vel em: \url{https://www.blender.org/}. Acesso em: 28 fev 2018.}
+
+\bibitem[Cassol et al. 2016]{bib:cassol2016}
+\abntrefinfo{Cassol et al.}{CASSOL et al.}{2016}
+{CASSOL, V. et al. \textbf{Sete Povos: Games e Realidade Virtual para contar a
+  história das Missões Jesuíticas no Brasil}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2016/downloads/anais/157569.pdf}. Acesso
+  em: 28 fev 2018.}
+
+\bibitem[Denardi, Frigo e Pozzebon 2014]{bib:denardi2014}
+\abntrefinfo{Denardi, Frigo e Pozzebon}{DENARDI; FRIGO; POZZEBON}{2014}
+{DENARDI, D.; FRIGO, L.; POZZEBON, E. \textbf{Roteirização em Games: uma
+  breve análise sobre as iniciativas atuais}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2014/files/papers/culture/full/Cult\_Full\_Roteirizacao\%20em\%20Games.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[GIMP 2018]{bib:gimp2018}
+\abntrefinfo{GIMP}{GIMP}{2018}
+{GIMP. \textbf{Site GIMP}. 2018.
+Dispon{\'\i}vel em: \url{https://www.gimp.org/}. Acesso em: 28 fev 2018.}
+
+\bibitem[Globo 2017]{bib:globo2017}
+\abntrefinfo{Globo}{GLOBO}{2017}
+{GLOBO, J. \textbf{Indústria de games e aplicativos continua crescendo no
+  Brasil}. 2017.
+Dispon{\'\i}vel em:
+  \url{http://g1.globo.com/jornal-da-globo/noticia/2015/04/industria-de-games-e-aplicativos-continua-crescendo-no-brasil.html}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Guterres e Silveira 2017]{bib:guterres2017}
+\abntrefinfo{Guterres e Silveira}{GUTERRES; SILVEIRA}{2017}
+{GUTERRES, J. P.~D.; SILVEIRA, M.~S. \textbf{Um Framework para Apoio à
+  Reflexão sobre o Processo de Produção de Objetos de Aprendizagem}. 2017.
+Dispon{\'\i}vel em:
+  \url{http://www.br-ie.org/pub/index.php/sbie/article/view/7557/5353}. Acesso
+  em: 28 ago 2018.}
+
+\bibitem[Inkscape 2018]{bib:inkscape2016}
+\abntrefinfo{Inkscape}{INKSCAPE}{2018}
+{INKSCAPE. \textbf{Site Inkscape}. 2018.
+Dispon{\'\i}vel em: \url{https://www.inkscape.org/}. Acesso em: 28 fev 2018.}
+
+\bibitem[Joffily 2008]{bib:jofilly2008}
+\abntrefinfo{Joffily}{JOFFILY}{2008}
+{JOFFILY, B. \textbf{Osvaldão e a saga do Araguaia}. São Paulo: Expressão
+  Popular, 2008.}
+
+\bibitem[Leite e Godoi 2013]{bib:godoi2013}
+\abntrefinfo{Leite e Godoi}{LEITE; GODOI}{2013}
+{LEITE, P.; GODOI, V. \textbf{Diretrizes para Game Design de Jogos
+  Educacionais}. 2013.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2013/proceedings/artedesign/17-dt-paper.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Lopes, Breyer e Kelner 2016]{bib:lopes2016}
+\abntrefinfo{Lopes, Breyer e Kelner}{LOPES; BREYER; KELNER}{2016}
+{LOPES, A.; BREYER, F.; KELNER, J. \textbf{Mapeamento das percepções das
+  interações dos usuários em jogos de ação e aventura com dinâmica 2D e
+  3D}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2016/downloads/anais/157547.pdf}. Acesso
+  em: 28 fev 2018.}
+
+\bibitem[Machado 2014]{bib:machado2014}
+\abntrefinfo{Machado}{MACHADO}{2014}
+{MACHADO, R. \textbf{Fator diversão na produção de um jogo eletrônico
+  educativo}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2014/files/papers/culture/full/Cult\_Full\_Fator\%20diversao\%20na\%20producao\%20de\%20jogo.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Makehuman 2018]{bib:makehuman2018}
+\abntrefinfo{Makehuman}{MAKEHUMAN}{2018}
+{MAKEHUMAN. \textbf{Site Makehuman}. 2018.
+Dispon{\'\i}vel em: \url{http://www.makehuman.org/index.php}. Acesso em: 28 fev
+  2018.}
+
+\bibitem[Marcolino e Battaiola 2016]{bib:cs2016}
+\abntrefinfo{Marcolino e Battaiola}{MARCOLINO; BATTAIOLA}{2016}
+{MARCOLINO, F.; BATTAIOLA, A. \textbf{Elementos para storytelling em jogos
+  eletrônicos sem cutscenes}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2016/downloads/anais/157375.pdf}. Acesso
+  em: 28 fev 2018.}
+
+\bibitem[Medeiros e Schimiguel 2012]{bib:medeiros2012}
+\abntrefinfo{Medeiros e Schimiguel}{MEDEIROS; SCHIMIGUEL}{2012}
+{MEDEIROS, M.; SCHIMIGUEL, J. \textbf{Uma Abordagem Para Avaliação De Jogos
+  Educativos: Ênfase No Ensino Fundamental}. 2012.
+Dispon{\'\i}vel em:
+  \url{http://www.lbd.dcc.ufmg.br/colecoes/sbie/2012/00122.pdf}. Acesso em: 28
+  fev 2018.}
+
+\bibitem[Morais e Silva 2012]{bib:silva2012}
+\abntrefinfo{Morais e Silva}{MORAIS; SILVA}{2012}
+{MORAIS, T.; SILVA, E. da. \textbf{Operação Araguaia: os arquivos secretos da
+  guerrilha}. 1ª. ed. São Paulo: Geração Editorial, 2012.}
+
+\bibitem[Motta e Junior 2013]{bib:motta2013}
+\abntrefinfo{Motta e Junior}{MOTTA; JUNIOR}{2013}
+{MOTTA, R.; JUNIOR, J. \textbf{Short game design document (SGDD)}. 2013.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper\_SGDD.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Neves, Alves e Bastos 2012]{bib:neves2012}
+\abntrefinfo{Neves, Alves e Bastos}{NEVES; ALVES; BASTOS}{2012}
+{NEVES, I.; ALVES, L.; BASTOS, A. \textbf{Jogos digitais e a História:
+  desafios e possibilidades}. 2012.
+Dispon{\'\i}vel em:
+  \url{http://sbgames.org/sbgames2012/proceedings/papers/cultura/C\_S17.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[NOVAK 2010]{bib:novak2010}
+\abntrefinfo{NOVAK}{NOVAK}{2010}
+{NOVAK, J. \textbf{Game Development Essentials: An introduction}. 3rd. ed.
+  [S.l.]: Cengage Learning, 2010.}
+
+\bibitem[Ribeiro e Fernandes 2013]{bib:ribeiro2013}
+\abntrefinfo{Ribeiro e Fernandes}{RIBEIRO; FERNANDES}{2013}
+{RIBEIRO, G.; FERNANDES, N. \textbf{O design e a jogabilidade: Em busca do
+  diferencial no game design}. 2013.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2013/proceedings/artedesign/01-dt-short.pdf}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Salen e Zimmerman 2012]{bib:salen2012}
+\abntrefinfo{Salen e Zimmerman}{SALEN; ZIMMERMAN}{2012}
+{SALEN, K.; ZIMMERMAN, E. \textbf{Regras do jogo: fundamentos do design de
+  jogos}. São Paulo: Blucher, 2012.}
+
+\bibitem[Savi 2011]{bib:savi2011}
+\abntrefinfo{Savi}{SAVI}{2011}
+{SAVI, R. \textbf{Avaliação de jogos voltados para a disseminação do
+  conhecimento}. Ulbrich -- Florianópolis, SC: [s.n.], 2011.
+Dispon{\'\i}vel em:
+  \url{https://repositorio.ufsc.br/bitstream/handle/123456789/96046/299498.pdf?sequence}.
+  Acesso em: 28 fev 2018.}
+
+\bibitem[Schuytema 2008]{bib:schuytema2008}
+\abntrefinfo{Schuytema}{SCHUYTEMA}{2008}
+{SCHUYTEMA, P. \textbf{Design de Games: Uma Abordagem Prática}. São Paulo:
+  Cengage Learning, 2008.}
+
+\bibitem[Souza et al. 2016]{bib:bb2016}
+\abntrefinfo{Souza et al.}{SOUZA et al.}{2016}
+{SOUZA, G. et al. \textbf{Brasil Ball -- A Jornada: um jogo digital sobre a
+  História do Brasil}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2016/downloads/anais/157504.pdf}. Acesso
+  em: 28 fev 2018.}
+
+\bibitem[Spring 2015]{bib:spring2015}
+\abntrefinfo{Spring}{SPRING}{2015}
+{SPRING, D. \textbf{Gaming history: computer and video games as historical
+  scholarship}. [S.l.]: Rethinking History, 2015. 207--221~p.}
+
+\bibitem[Sá 1990]{bib:glenio1990}
+\abntrefinfo{Sá}{Sá}{1990}
+{Sá, G. \textbf{Araguaia Relato de um Guerrilheiro}. 1ª. ed. São Paulo:
+  Anita Garibaldi, 1990.}
+
+\bibitem[Teixeira et al. 2016]{bib:teixeira2016}
+\abntrefinfo{Teixeira et al.}{TEIXEIRA et al.}{2016}
+{TEIXEIRA, R. et al. \textbf{Game Marabá: projeto, implementação, e
+  avaliação de um jogo educativo para auxilio no ensino de Estudos
+  Amazônicos}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.sbgames.org/sbgames2016/downloads/anais/157311.pdf}. Acesso
+  em: 28 fev 2018.}
+
+\bibitem[Tori 2010]{bib:tori2010}
+\abntrefinfo{Tori}{TORI}{2010}
+{TORI, R. \textbf{Educação sem distância: as tecnologias interativas na
+  redução de distâncias em ensino e aprendizagem}. São Paulo: Senac, 2010.}
+
+\bibitem[Unity 2018]{bib:unity2018}
+\abntrefinfo{Unity}{UNITY}{2018}
+{UNITY. \textbf{Site Unity}. 2018.
+Dispon{\'\i}vel em: \url{http://www.unity3d.com/unity}. Acesso em: 28 fev
+  2018.}
+
+\end{thebibliography}

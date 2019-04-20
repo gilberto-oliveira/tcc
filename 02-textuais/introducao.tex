@@ -1,0 +1,78 @@
+% INTRODUÇÃO-------------------------------------------------------------------
+
+\chapter{INTRODUÇÃO}
+\label{chap:introducao}
+
+O número de desenvolvedores de games no Brasil vêm crescendo nos últimos anos. Segundo pesquisa realizada pela Associação Brasileira dos Desenvolvedores de Jogos Digitais (Abragames), enquanto o setor de serviços no país tem sofrido quedas consecutivas, um nicho prospera em tendência oposta. Trata-se do mercado de produção de jogos virtuais. Em oito anos, o número de empresas desenvolvedoras de games aumentou em quase $600\%$. Já o faturamento do setor no país cresceu $25\%$ entre $2014$ e $2016$ \cite{bib:globo2017}.
+
+Um outro levantamento feito pela \textit{NewZoo}, uma das principais condutoras de pesquisas sobre a indústria dos games no mundo, mostra que em $2016$ o setor faturou $US\$ 1,6$ bilhão no Brasil, um aumento de $25\%$ em relação a 2014, quando o mercado brasileiro de jogos digitais movimentou $US\$ 1,28$ bilhão \cite{bib:globo2017}.
+
+Entretanto, segundo Raoni Dorim, sócio da empresa \textit{Mopix Games}\footnote{http://www.mopix.com.br}, a produção de jogos digitais não se restringe ao propósito de entretenimento. Um dos nichos com grande potencial de crescimento é o de \textit{serious} games, ou jogos empresariais, que engloba jogos educativos e simuladores \cite{bib:globo2017}.
+
+Aproveitando este potencial de crescimento registrado, o objeto de estudo deste trabalho são os jogos eletrônicos educativos, que propõem a seguinte premissa: tentar auxiliar um educador no ensino de um conteúdo, de forma lúdica e divertida, aumentando a motivação dos participantes, contribuindo positivamente para o processo ensino-aprendizagem \cite{bib:tori2010}.
+
+O desenvolvimento de jogos digitais pode ser considerado como uma tarefa complexa, que exige uma gama de conhecimentos técnicos nas mais diversas áreas, desde a programação de computadores até o conhecimento artístico para o preparo de elementos, sejam eles gráficos ou escritos \cite{bib:bb2016}.
+
+Dentre os elementos considerados essenciais em um jogo eletrônico educativo estão as \textit{cutscenes} -- cena que desenvolve a linha narrativa e é costumeiramente mostrada no momento que algum nível do jogo é completado ou iniciado \cite{bib:cs2016}. Geralmente, neste tipo de cena, não há interação entre jogador e personagem, caracterizando-a como uma narrativa de fluxo linear.
+
+O jogo educativo ``Araguaia: A Saga de Osvaldão", até o momento possui cinco \textit{cutscenes}, uma em \textit{3D} e o restante em \textit{2D}. A \textit{3D} foi concebida com o auxilio de softwares \textit{open-source} para modelagem tridimensional de cenários e personagens, produção e edição de vídeo e animação de objetos \textit{3D}. As \textit{2D} foram concebidas utilizando a game \textit{engine Unity}, com o auxilio de softwares de edição de vídeo. Este trabalho apresenta o projeto e implementação da \textit{cutscene 3D} e de três \textit{cutscenes 2D}.
+
+Além das \textit{cutscenes}, as missões \textit{(levels)} também são elementos essenciais em um game, definidas por um conjunto de regras que descrevem as etapas (desafios) necessárias para alcançar um determinado objetivo dentro do jogo. \textit{Level design} é o processo de desenvolvimento delas, nele são detalhados os desafios e missões que o jogador precisa cumprir para vencer. Os artistas trabalham na programação visual e nos cenários de cada \textit{level}, enquanto os programadores programam suas características \cite{bib:ribeiro2013}.
+
+Neste trabalho serão apresentadas quatro missões. Duas referentes a $1ª$ fase do jogo, retratando a criação do Destacamento $B$ da Guerrilha, do qual Osvaldão era o comandante e a expulsão de um grileiro da região, feita pelo Osvaldão. E duas referentes a $2ª$ fase do jogo -- a primeira inicia relatando o processo de interação entre Osvaldão e os demais guerrilheiros com a população da região do conflito (realizando atividades em conjunto, limpando terreno e etc.) e a segunda missão mostra uma passagem que relata um encontro ocorrido às margens do rio Gameleira, entre os guerrilheiros e tropas do exército, com a participação de Osvaldão. Estas foram programadas utilizando a \textit{Unity} -- motor de desenvolvimento integrado que fornece funcionalidades pioneiras para a criação de jogos e outros conteúdos interativos.
+
+Após a implementação destas missões, o jogo foi avaliado pela equipe do projeto e distribuído para a plataforma \textit{mobile (Android)}, deixando-o disponível para \textit{download} no site do LAGE. A avaliação pela equipe foi dividida em dois momentos: o primeiro foi a avaliação técnica, onde os membros testaram o jogo, objetivando encontrar erros de implementação das regras do jogo, bem como de \textit{bugs} de interação/experiência do usuário (demora na resposta dos botões, travamento de \textit{cutscenes} e etc). O segundo momento fora a avaliação pedagógica, onde os membros da equipe responsáveis por definir os objetivos pedagógicos do jogo avaliaram este, evidenciando se ele realmente está de acordo com o planejado, no que tange a maneira como é passado o conteúdo a ser aprendido.
+
+\section{Motivação}
+\label{sec:motivacao}
+
+Games sobre história têm sido uma temática muito explorada em todo o mundo. Em vez de uma monografia e a apresentação de uma narrativa linear da história, o trabalho do historiador poderia ser produzido como um game. Podendo apresentar pesquisas originais que rivalizam com qualquer excelente trabalho de história, transformando leitores, estudantes e espectadores em jogadores que interagem com a história, imersos no palco dos acontecimentos. O videogame oferece um potencial muito maior para a criação e apresentação do conteúdo histórico que qualquer outro entretenimento ou mídia interativa \cite{bib:spring2015}.
+
+Portanto, contar a história tem sido, e continua sendo um tema importante para os desenvolvedores de games, tanto no aspecto educativo como no da diversão, ou seja, tornar a narrativa lúdica e divertida ao mesmo tempo que educa e auxilia no processo de ensino-aprendizagem.
+
+Além disso, a busca por novos métodos de ensinar história é uma motivação recorrente, e os jogos aparecem como uma ferramenta pedagógica capaz de contribuir para a aprendizagem dos conteúdos históricos e transpor algumas dificuldades encontradas no cotidiano das salas de aula. Deste modo, uso de jogos é uma prática docente que se desenvolve e é fruto de uma reflexão sobre as experiências vividas em sala de aula \cite{bib:teixeira2016}.
+
+Assim, este trabalho traz um grande desafio, pois como transformar uma narrativa histórica em um game divertido e que ao mesmo tempo ensine ao jogador fatos políticos e históricos além de mostrar a flora e fauna da região da Guerrilha do Araguaia?
+
+Para tanto, foi formada uma equipe multidisciplinar com historiadores, game \textit{designers}, artistas e programadores que de maneira colaborativa projetaram e implementaram, a primeira e a segunda fase de um jogo de plataforma \textit{2D} sobre a Guerrilha do Araguaia, com foco na atuação do guerrilheiro Osvaldão.
+
+Ademais, grande parte das escolas públicas do município de Marabá-PA possuem um parque computacional pobre, em termos de recursos computacionais para executar jogos eletrônicos. Sabendo disso, este projeto entrega uma versão \textit{mobile} do software proposto à comunidade, fazendo com que os professores possam utilizá-lo em sala de aula, necessitando apenas dos \textit{smartphones} dos estudantes.
+
+\section{Objetivo Geral}
+\label{sec:objetivogeral}
+
+Desenvolver um jogo educacional de plataforma \textit{2D} sobre a temática da Guerrilha do Araguaia $(1972-1974)$, com foco na atuação do guerrilheiro Osvaldão, idealizado como ferramenta auxiliar no processo de ensino-aprendizagem da disciplina de História em turmas do ensino médio nas escolas de Marabá-PA.
+
+\section{Objetivos Específicos}
+\label{sec:objetivosespecificos}
+
+\begin{itemize}
+		
+	\item Apresentar o projeto e implementação de duas missões da primeira fase do jogo, que são: a primeira missão, construção do primeiro barracão na região do Destacamento $B$ da Guerrilha, realizada por Osvaldão. A segunda, apresenta o um episódio pouco conhecido na região, onde Osvaldão expulsou um Grileiro\footnote{Pessoa que se apodera ou procura se apossar de terras alheias, mediante falsas escrituras de propriedade} conhecido como Pedro Mineiro que, juntamente com seus capangas, oprimiam uma família de camponeses;
+			
+	\item Projetar e implementar duas missões da segunda fase do jogo, que são: a primeira missão, relacionamento dos guerrilheiros com a população local da região. A segunda, apresenta o primeiro conflito armado entre guerrilheiros e tropas do exército, com a participação de Osvaldão;
+	
+	\item Apresentar o projeto e implementação de quatro \textit{cutscenes} para o jogo, uma em \textit{3D} e três em \textit{2D};
+				
+	\item Aprender técnicas de projeto e implementação de jogos eletrônicos educativos de plataforma \textit{2D};
+	
+	\item Realizar submissão de artigos em congressos das áreas de jogos eletrônicos e informática na educação.
+	
+\end{itemize}
+
+\section{Organização do Trabalho}
+\label{sec:organizacaotrabalho}
+
+O trabalho está estruturado em cinco capítulos. Os tópicos abaixo descrevem subsequentemente a organização destes.
+
+\begin{itemize}
+			
+	\item \textbf{Capítulo \ref{chap:fundamentacao-teorica}:} Apresenta a fundamentação teórica deste trabalho, discutindo sobre games e educação, jogos de plataforma \textit{2D} e jogos no ensino de história. Também são apresentados três trabalhos correlatos que embasaram esta pesquisa;
+	
+	\item \textbf{Capítulo \ref{chap:metodologia}:} Apresenta a metodologia empregada para a realização deste trabalho, onde destacam-se o \textit{Game Design Document (GDD)}; o \textit{Framework} de desenvolvimento de jogos educativos elaborado pela equipe e empregado neste projeto; as ferramentas de desenvolvimento de jogos utilizadas; e as especificações técnicas usadas para o desenvolvimento do jogo e para definir os requisitos mínimos da plataforma de execução deste;
+	
+	\item \textbf{Capítulo \ref{chap:araguaia-osvaldao}:} Apresenta a ambientação da equipe do projeto, no âmbito da Guerrilha do Araguaia; o projeto do jogo; a implementação das duas missões da primeira fase, bem como das duas da segunda fase; a implementação das quatro \textit{cutscenes}, sendo três na primeira fase e uma na segunda fase; e as avaliações do jogo, dando um destaque para a avaliação técnica e a pedagógica;
+	
+	\item \textbf{Capítulo \ref{chap:conclusao}:} Expõe as considerações finais acerca do trabalho realizado. Nela tem-se os resultados alcançados com a implementação das duas fases do jogo, bem como perspectivas de trabalhos futuros, dando um destaque para a realização de avaliações com alunos sobre o jogo.
+	
+\end{itemize}
